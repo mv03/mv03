@@ -1,6 +1,6 @@
-                                                                                                  Hi, I'm Mudit 👋
-                                                                                                  
-                                                                                I'm an Android app developer exploring data science from India 😃
+Hi, I'm Mudit 👋
+                                                                          
+I'm an Android app developer exploring data science from India 😃
 
 🙋‍♂️ About Me
 - 🔭 I’m currently working on data science and Android development
